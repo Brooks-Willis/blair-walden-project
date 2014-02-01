@@ -140,11 +140,7 @@ Economy
 
 
 When I wrote the following pages, or rather the bulk of them, I lived
-alone, in the woods, a mile or more from any neighbor, in a house which I had
-built myself, on the chilly shore of Walden Pond, in Concord, Massachusetts,
-and earned my living by the labor of my hands only. I survived there two
-years and two months. At present I am a sojourner in civilized life
-again.
+alone, in the woods, a mile or more from any neighbor, in a house which I had built myself, on the chilly shore of Walden Pond, in Concord, Massachusetts. I earned my living by the labor of my hands only and had little time to enjoy the fruits of my labor. Days faded into nights and nights disappeared into days. I survived there two years, two months and not one day longer. At present I am a sojourner in civilized life once again.
 
 I should not obtrude my affairs so much on the notice of my readers if
 very particular inquiries had not been made by my townsmen concerning
@@ -164,8 +160,7 @@ much about myself if there were anybody else whom I knew as well.
 Unfortunately, I am confined to this theme by the narrowness of my
 experience. Moreover, I, on my side, require of every writer, first or
 last, a simple and sincere account of his own life, and not merely what
-he has heard of other men's lives; some such account as he would send to
-his kindred from a distant land; for if he has lived sincerely, it
+he has heard of other men's lives; some such account as he would send to his kindred from a distant land; for if he has lived sincerely, it
 must have been in a distant land to me. Perhaps these pages are more
 particularly addressed to poor students. As for the rest of my readers,
 they will accept such portions as apply to them. I trust that none will
@@ -179,7 +174,7 @@ condition or circumstances in this world, in this town, what it is,
 whether it is necessary that it be as bad as it is, whether it cannot
 be improved as well as not. I have travelled a good deal in Concord;
 and everywhere, in shops, and offices, and fields, the inhabitants have
-appeared to me to be doing penance in a thousand remarkable ways. What
+appeared to me to be doing penance in a thousand remarkable ways.  What
 I have heard of Bramins sitting exposed to four fires and looking in the
 face of the sun; or hanging suspended, with their heads downward, over
 flames; or looking at the heavens over their shoulders "until it becomes
@@ -533,11 +528,13 @@ own golden or silver fetters.
 
        *       *       *       *       *
 
+
 If I should attempt to tell how I have desired to spend my life in years
 past, it would probably surprise those of my readers who are somewhat
 acquainted with its actual history; it would certainly astonish those
 who know nothing about it. I will only hint at some of the enterprises
-which I have cherished.
+which I have cherished, and I may only glaze over my more frightening
+undertakings.
 
 In any weather, at any hour of the day or night, I have been anxious to
 improve the nick of time, and notch it on my stick too; to stand on the
@@ -565,7 +562,7 @@ rising, but, doubt not, it was of the last importance only to be present
 at it.
 
 So many autumn, ay, and winter days, spent outside the town, trying to
-hear what was in the wind, to hear and carry it express! I well-nigh
+hear what was in the wind, to hear and carry it express! Witches! I well-nigh
 sunk all my capital in it, and lost my own breath into the bargain,
 running in the face of it. If it had concerned either of the political
 parties, depend upon it, it would have appeared in the Gazette with the
@@ -1754,12 +1751,13 @@ what was on hand at the last date--was
     Lard.....................  0.65
     Apples...................  0.25
     Dried apple..............  0.22
+    Box of nails.............  0.20  Suitable breakfast 
     Sweet potatoes...........  0.10
     One pumpkin..............  0.06
     One watermelon...........  0.02
     Salt.....................  0.03
 
-Yes, I did eat $8.74, all told; but I should not thus unblushingly
+Yes, I did eat $8.94, all told; but I should not thus unblushingly
 publish my guilt, if I did not know that most of my readers were equally
 guilty with myself, and that their deeds would look no better in print.
 The next year I sometimes caught a mess of fish for my dinner, and
@@ -6408,6 +6406,8 @@ without finding the skewer.
 _Hermit._ Well, then, let's be off. Shall we to the Concord? There's good
 sport there if the water be not too high.
 
+In one instance, another companion, with whom I have not spoken since, appeared some stretches from my everyday spot. He appeared tall and gaunt, with atrophied limbs, and resembeled nothing of the man I spent my hours with while fishing. We spoke, briefly, on the brevity of the seasons, and all the while he looked, solemnly, out over the horizon of the lake. I know not his name, nor have I seen him in the past weeks.
+
        *       *       *       *       *
 
 Why do precisely these objects which we behold make a world? Why has
@@ -8260,7 +8260,7 @@ through the favoring winter air, to wintry cellars, to underlie the
 summer there. It looks like solidified azure, as, far off, it is drawn
 through the streets. These ice-cutters are a merry race, full of jest
 and sport, and when I went among them they were wont to invite me to saw
-pit-fashion with them, I standing underneath.
+pit-fashion with them, I standing underneath. I watched as the ice-cutters bore through the icy force like lovers seeking to mine the frozen hearts of their beloved, undeterred by the wind that struck me like knives. I preferred the cabin and fire. 
 
 In the winter of '46-7 there came a hundred men of Hyperborean
 extraction swoop down on to our pond one morning, with many carloads
@@ -8345,7 +8345,7 @@ interesting subject for contemplation. They told me that they had some
 in the ice-houses at Fresh Pond five years old which was as good as
 ever. Why is it that a bucket of water soon becomes putrid, but frozen
 remains sweet forever? It is commonly said that this is the difference
-between the affections and the intellect.
+between the affections and the intellect. 
 
 Thus for sixteen days I saw from my window a hundred men at work like
 busy husbandmen, with teams and horses and apparently all the implements
@@ -8467,7 +8467,7 @@ thick-skinned a thing to be so sensitive? Yet it has its law to which
 it thunders obedience when it should as surely as the buds expand in the
 spring. The earth is all alive and covered with papillae. The largest
 pond is as sensitive to atmospheric changes as the globule of mercury in
-its tube.
+its tube. Every sound and creature listened to the whisperings of the ground. 
 
 One attraction in coming to the woods to live was that I should have
 leisure and opportunity to see the Spring come in. The ice in the pond
@@ -8932,6 +8932,8 @@ on a wise man is that of universal innocence. Poison is not poisonous
 after all, nor are any wounds fatal. Compassion is a very untenable
 ground. It must be expeditious. Its pleadings will not bear to be
 stereotyped.
+
+As I have stated, Nature itself is a bountiful plenty that satisfies the primal and refined urges of man. Within its undefinable beauty, we find solace. It is only in the crimes against nature, in that abhorrence that we find our primeval, sinful Natural state. I have come to these woods, knowing the story just as you have, that such evil dwells here. Here, I hope to find my self, not in the englightened way that such a trip may make you think. I have come here to find my inner evils for it is only when you know what is inside of you that is darkness, can you spread light upon it.
 
 Early in May, the oaks, hickories, maples, and other trees, just putting
 out amidst the pine woods around the pond, imparted a brightness like
@@ -9940,6 +9942,8 @@ village-inn--a wholly new and rare experience to me. It was a closer
 view of my native town. I was fairly inside of it. I never had seen its
 institutions before. This is one of its peculiar institutions; for it is
 a shire town. I began to comprehend what its inhabitants were about.
+
+Night fell. And I noticed. Silence. Waves crash upon the land, a disconect between reality and dreaming. Silver birds and miliarty marches slam in to the calm serenity of my home. Dogs bark, children cry. The world tilts on it's side as tears fall from my face to the floor. The sky has turned a red that oozes from my skin and populates the land. I don't now where I am. I don't know who I've been. A tree falls in the forest. Oh, and I am here to hear it. They always make sound. So much sound, that it defens the heart and rips the soul in two. There is a cause and effect for all actions. All actions. When you breath, you move the air around your body. When you clap your hands, others hear. When you bring a knife down on flesh, blood is spilt. The world is one big effect from causes of the past. Leading us to be without effect on the world we are surrounded by.Without my cause the sky will turn to dark blue, dark,Empty. But I am not alone. I have myself. And the lake. And the trees.They always make a sound. 
 
 In the morning, our breakfasts were put through the hole in the door,
 in small oblong-square tin pans, made to fit, and holding a pint of
